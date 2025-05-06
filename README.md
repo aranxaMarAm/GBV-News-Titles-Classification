@@ -8,8 +8,11 @@ In this case, the goal consisted in training a classification model to categoriz
 ### Key components of the project include:
 
 Text Preprocessing: Cleaning and preparing text data using tokenization and stopword removal.
+
 Feature Extraction: Representing text with TF-IDF vectors and pre-trained embeddings.
+
 Model Training: Implementing  logistic regression.
+
 Evaluation: Metrics such as precision, recall, and F1-score to assess model performance.
 
 This repository contains the code, dataset, and documentation for replicating the analysis and extending it for future research.
